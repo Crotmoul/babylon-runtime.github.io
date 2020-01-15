@@ -19,7 +19,7 @@ This tool allowed me this kind of efficient worklow:
 3. Come back to Blender to make some modifications, then re-export my scene to BJS...
 4. ... and not loosing any of my tweaks!
 
-We called this not-loosed-modifications: **patchs**.
+We called this not-loosed-modifications: **patches**.
 
 ![starting-bjs](why-use-runtime-for-artists/starting-bjs.jpg)
 
